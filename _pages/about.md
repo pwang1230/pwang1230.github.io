@@ -1,0 +1,23 @@
+---
+layout: about
+title: about
+permalink: /
+#subtitle: student interested in <a href='#'> AR/VR</a> research! 
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_cicular: false # crops the image to make it circular
+  #address: >
+    # <p>New York</p>
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+Hi there! I am a first-year master's student studying MS&E at Stanford University. I recently graduated from Columbia University with a B.S. in Computer Science and a minor in Applied Mathematics.
+
+I am broadly interested in the intersection of <a href='#'> AR/VR</a>,  <a href='#'>Art/Design</a>, and  <a href='#'>the Social Sciences</a>. My current research focuses on investigating human behavior through building Augmented Reality and Virtual Reality systems that facilitate in learning and collaboration between people and machines.
+
+I currently work as a research assistant advised by <a href='http://www.cs.columbia.edu/~feiner/'>Professor Steven Feiner</a> at the <a href='https://graphics.cs.columbia.edu/home'> Computer Graphics and User Interfaces Lab </a> at Columbia.
