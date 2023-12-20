@@ -2,7 +2,7 @@
 layout: page
 title: art
 permalink: /art/
-description: selected works in digital art and photography! 
+description: selected works in digital art and film photography! 
 nav: true
 nav_order: 2
 display_categories: [digital art, photography, DALL-E]
