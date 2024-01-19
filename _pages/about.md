@@ -22,6 +22,6 @@ I am broadly interested in the intersection of <a href='#'> Augmented/Virtual Re
 
 While at Columbia, I worked as a research assistant advised by <a href='http://www.cs.columbia.edu/~feiner/'>Professor Steven Feiner</a> at the <a href='https://graphics.cs.columbia.edu/home'> Computer Graphics and User Interfaces Lab.
 
-I currently work as a research assistant advised by Professor Jeremy Bailenson at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a> at Stanford University.
+I currently work as a research assistant advised by Professor Jeremy Bailenson at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a> at Stanford University. My research is supported by the Sozo Graduate Fellowship.
 
 <em> Disclaimer: the adorable pomsky (<a href='https://www.instagram.com/bobapomsky/'>Boba</a>) is not mine, I am only her (ir)responsible "godmother". </em>
