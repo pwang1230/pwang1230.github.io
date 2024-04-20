@@ -9,5 +9,5 @@ nav_order: 1
 
 
 
-<li>Spring 2022 - COMS 4172 3D User Interfaces and Augmented Reality (instructor: <a href="http://www.cs.columbia.edu/~feiner/">Professor Steven Feiner</a>)</li>
-<li>Fall 2021 - COMS 4170 User Interface Design (instructor:  <a href="http://www.cs.columbia.edu/~brian/"> Professor Brian Smith</a>)</li>
+<li>Spring 2022 - COMS 4172 3D User Interfaces and Augmented Reality (instructor: <a href="http://www.cs.columbia.edu/~feiner/">Prof. Steven Feiner</a>)</li>
+<li>Fall 2021 - COMS 4170 User Interface Design (instructor:  <a href="http://www.cs.columbia.edu/~brian/"> Prof. Brian Smith</a>)</li>
