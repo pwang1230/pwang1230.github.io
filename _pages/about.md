@@ -23,4 +23,4 @@ I am interested in building up a theoretical framework towards understanding per
 Previously, I completed my M.S. in MS&E at Stanford University and B.S. in Computer Science at Columbia University. While at Columbia, I worked as a research assistant advised by <a href='http://www.cs.columbia.edu/~feiner/'>Prof. Steven Feiner</a> at the <a href='https://graphics.cs.columbia.edu/home'> Computer Graphics and User Interfaces Lab.
 
 
-<em> Disclaimer: the adorable pomsky (<a href='https://www.instagram.com/bobapomsky/'>Boba</a>) is not mine, I am only her (ir)responsible "godmother". </em>
+<em> Note: look out for the adorable mini golden retriever (<a href='https://www.instagram.com/totolikestowoof/'>Toto</a>) as we navigate through grad school. </em>
