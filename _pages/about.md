@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hi there! I am an incoming Communication PhD student at Stanford University, supported by a <a href='https://vpge.stanford.edu/fellowships-funding/sgf'>Stanford Graduate Fellowship</a>. I am advised by <a href='https://profiles.stanford.edu/jeremy-bailenson'>Prof. Jeremy Bailenson</a> at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a>. 
+Hi there! I am an incoming Communication PhD student at Stanford University, supported by a <a href='https://vpge.stanford.edu/fellowships-funding/sgf'>Stanford Graduate Fellowship</a>. I am advised by <a href='https://profiles.stanford.edu/jeremy-bailenson'>Prof. Jeremy Bailenson</a> at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a>.
 
 I am interested in building up a theoretical framework towards understanding personalized and adaptive immersive technologies. To do this, I hope to develop tools for facilitating social interactions and the creative process in Virtual and Augmented Reality and characterize how individuals and groups utilize these tools over time.
 
