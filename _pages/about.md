@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hi there! I am an incoming Communication PhD student at Stanford University, supported by a <a href='https://vpge.stanford.edu/fellowships-funding/sgf'>Stanford Graduate Fellowship</a>. I am advised by <a href='https://profiles.stanford.edu/jeremy-bailenson'>Prof. Jeremy Bailenson</a> at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a>.
+Hi there! I am a Communication PhD student at Stanford University, supported by a <a href='https://vpge.stanford.edu/fellowships-funding/sgf'>Stanford Graduate Fellowship</a> and a <a href='https://ethicsinsociety.stanford.edu/'>McCoy Ethics Graduate Fellowship</a>. I am advised by <a href='https://profiles.stanford.edu/jeremy-bailenson'>Prof. Jeremy Bailenson</a> at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a>. I also work with <a href="https://med.stanford.edu/profiles/stephanie-balters">Dr. Stephanie Balters</a> at the <a href='https://empowering.stanford.edu/'>Empowerment Neuroscience Lab</a>.
 
 I am interested in building up a theoretical framework towards understanding personalized and adaptive immersive technologies. To do this, I hope to develop tools for facilitating social interactions and the creative process in virtual and augmented reality and characterize how individuals and groups utilize these tools over time.
 
