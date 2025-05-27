@@ -88,6 +88,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-to-cscw-tada",
           title: 'Paper accepted to CSCW :tada:',
           description: "",
+          section: "News",},{id: "news-co-authored-papers-accepted-to-nature-human-behavior-and-computers-in-human-behavior-tada",
+          title: 'Co-authored papers accepted to Nature Human Behavior and Computers in Human Behavior :tada:...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
