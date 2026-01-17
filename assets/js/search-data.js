@@ -97,6 +97,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-to-journal-of-computer-mediated-communication-hourglass-flowing-sand",
           title: 'Paper accepted to Journal of Computer-Mediated Communication :hourglass_flowing_sand:',
           description: "",
+          section: "News",},{id: "news-co-authored-paper-accepted-to-cyberpsychology-behavior-and-social-networking-robot",
+          title: 'Co-authored paper accepted to Cyberpsychology Behavior and Social Networking :robot:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
