@@ -1,4 +1,4 @@
-FROM ruby:slim
+FROM ruby:3.3-slim
 
 # uncomment these if you are having this issue with the build:
 # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
@@ -19,7 +19,7 @@ LABEL authors="Amir Pourmand,George Araújo" \
 # RUN groupadd -r $GROUPNAME -g $GROUPID && \
 #     useradd -u $USERID -m -g $GROUPNAME $USERNAME
 
-# install system dependencies
+# install system dependencies (ADDED XML LIBRARIES FOR NOKOGIRI)
 RUN apt-get update -y && \
     apt-get install -y --no-install-recommends \
         build-essential \
@@ -31,7 +31,11 @@ RUN apt-get update -y && \
         nodejs \
         procps \
         python3-pip \
-        zlib1g-dev && \
+        zlib1g-dev \
+        libxml2-dev \
+        libxslt1-dev \
+        pkg-config \
+        liblzma-dev && \
     pip --no-cache-dir install --upgrade --break-system-packages nbconvert
 
 # clean up
@@ -59,10 +63,10 @@ ADD Gemfile /srv/jekyll
 
 # set the working directory
 WORKDIR /srv/jekyll
-RUN bundle config build.nokogiri --use-system-libraries
 
 # install jekyll and dependencies
 RUN gem install --no-document jekyll bundler
+RUN bundle config build.nokogiri --use-system-libraries
 RUN bundle install --no-cache
 
 EXPOSE 8080
