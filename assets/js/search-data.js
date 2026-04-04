@@ -100,6 +100,12 @@ ninja.data = [{
           section: "News",},{id: "news-co-authored-paper-accepted-to-cyberpsychology-behavior-and-social-networking-robot",
           title: 'Co-authored paper accepted to Cyberpsychology Behavior and Social Networking :robot:',
           description: "",
+          section: "News",},{id: "news-co-authored-paper-accepted-to-computers-in-human-behavior-eyes",
+          title: 'Co-authored paper accepted to Computers in Human Behavior :eyes:',
+          description: "",
+          section: "News",},{id: "news-paper-on-synchrony-and-collaboration-accepted-to-cognitive-science-man-dancing",
+          title: 'Paper on synchrony and collaboration accepted to Cognitive Science :man_dancing:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
