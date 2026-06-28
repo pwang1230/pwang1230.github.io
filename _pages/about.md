@@ -25,7 +25,7 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-Hi there! I am a Communication PhD student at Stanford University, supported by a <a href='https://vpge.stanford.edu/fellowships-funding/sgf'>Stanford Graduate Fellowship</a> and a <a href='https://ethicsinsociety.stanford.edu/'>McCoy Ethics Graduate Fellowship</a>. I am advised by <a href='https://profiles.stanford.edu/jeremy-bailenson'>Prof. Jeremy Bailenson</a> at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a>.
+Hi there! I am a PhD Candidate in Media Psychology at Stanford University, supported by a <a href='https://vpge.stanford.edu/fellowships-funding/sgf'>Stanford Graduate Fellowship</a> and a <a href='https://ethicsinsociety.stanford.edu/'>McCoy Ethics Graduate Fellowship</a>. I am advised by <a href='https://profiles.stanford.edu/jeremy-bailenson'>Prof. Jeremy Bailenson</a> at the<a href='https://vhil.stanford.edu/'> Virtual Human Interaction Lab</a>.
 
 I am interested in building up a theoretical framework towards understanding personalized and adaptive immersive technologies. To do this, I hope to develop tools for facilitating social interactions and the creative process in virtual and augmented reality and characterize how individuals and groups utilize these tools over time.
 
