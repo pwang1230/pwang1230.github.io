@@ -106,6 +106,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-on-synchrony-and-collaboration-accepted-to-cognitive-science-man-dancing",
           title: 'Paper on synchrony and collaboration accepted to Cognitive Science :man_dancing:',
           description: "",
+          section: "News",},{id: "news-co-authored-papers-accepted-to-small-group-research-and-acm-uist-tada",
+          title: 'Co-authored papers accepted to Small Group Research and ACM UIST :tada:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
