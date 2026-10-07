@@ -109,6 +109,9 @@ ninja.data = [{
           section: "News",},{id: "news-co-authored-papers-accepted-to-small-group-research-and-acm-uist-tada",
           title: 'Co-authored papers accepted to Small Group Research and ACM UIST :tada:',
           description: "",
+          section: "News",},{id: "news-spent-a-summer-at-microsoft-research-evergreen-tree",
+          title: 'Spent a summer at Microsoft Research :evergreen_tree:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
