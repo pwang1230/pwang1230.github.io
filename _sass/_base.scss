@@ -225,6 +225,10 @@ ul.task-list input[type="checkbox"] {
       }
     }
   }
+  .col-sm-2{
+    flex: 12%;
+    max-width: 12%;
+  }
 }
 
 .post-description {
